@@ -1,5 +1,5 @@
 
-# Injury detection in vehicle crashes
+# Injury Detection in Vehicle Crashes
 
 A simple machine learning project where a person is classified as injured or not in a vehicle crash based on certain parameters.
 
