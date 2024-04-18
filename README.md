@@ -1,7 +1,7 @@
 
-# Injury Detection in Vehicle Crashes
+# Injury Detection in Car Crashes
 
-A simple machine learning project where a person is classified as injured or not in a vehicle crash based on certain parameters.
+A simple machine learning project where a person is classified as injured or not in a car crash based on certain parameters.
 
 Initially, I have cleaned the data, dropped some redundant columns and performed Exploratory Data Analysis. I have also shown some visualizations.
 
